@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langchain_huggingface
+langchain_openai
+faiss-cpu==1.7.4
+pypdf
+huggingface_hub
+flask
+python-dotenv
+sentence-transformers
+streamlit==1.45.1
