@@ -10,3 +10,4 @@ python-dotenv
 sentence-transformers
 streamlit==1.45.1
 PyPDF2
+bs4
