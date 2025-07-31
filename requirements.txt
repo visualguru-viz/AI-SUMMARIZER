@@ -2,7 +2,7 @@ langchain
 langchain_community
 langchain_huggingface
 langchain_openai
-faiss-cpu==1.7.4
+faiss-cpu
 pypdf
 huggingface_hub
 flask
