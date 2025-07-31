@@ -12,3 +12,4 @@ streamlit==1.45.1
 PyPDF2
 bs4
 chromadb
+sqlite3 >= 3.35.0
